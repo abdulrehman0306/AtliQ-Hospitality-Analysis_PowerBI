@@ -9,7 +9,7 @@ As a data analyst, I was tasked with analyzing the provided historical data and 
 
 ## Key Responsibilities:
 
-1- Develop metrics in alignment with the list provided by stakeholders.
+**1-** Develop metrics in alignment with the list provided by stakeholders.
 2- Design and build a dashboard using advanced data visualization techniques based on the stakeholder's mock-up.
 3- Analyze the data to generate further insights that go beyond the predefined metrics and mock-up.
 
